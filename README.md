@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saipatne98
-- 👀 I’m interested in ..Web Development .
-- 🌱 I’m currently learning .web Development..
-- 💞️ I’m looking to collaborate on ..Web development.
+- 👀 I’m interested in ..Software Development .
+- 🌱 I’m currently learning .Software Development..
+- 💞️ I’m looking to collaborate on ..Software development.
 - 📫 How to reach me  saipatne98@gmail.com..
 - 😄 Pronouns: ..He .
 - ⚡ Fun fact: ...
